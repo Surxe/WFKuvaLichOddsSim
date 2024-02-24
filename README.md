@@ -17,10 +17,15 @@ Naturally, these Requiems will want to be prioritized for determining the order.
 
 
 Output of program simulation is as follows:
+
 All 3 reqs known on every attempt:
+
 Calculated # of attempts: 2.5
+
 Avg attempts taken: 2.463
+
 Chance for x number of attempts to complete lich: 
+
 1  attempts: 18.3%  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 2  attempts: 32.2%  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -33,9 +38,13 @@ Chance for x number of attempts to complete lich:
 
 
 No reqs were known on every attempt:
+
 Calculated # of attempts: TBD
+
 Avg attempts taken: 9.942
+
 Chance for x number of attempts to complete lich: 
+
 1  attempts: 0.1%   
 
 2  attempts: 0.5%   ||
